@@ -1,0 +1,2 @@
+# js-namespace
+namespacing assignment
